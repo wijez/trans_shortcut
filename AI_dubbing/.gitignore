@@ -1,0 +1,5 @@
+.env
+venv
+.venv
+temp_files
+output_videos
